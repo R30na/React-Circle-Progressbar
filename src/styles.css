@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.background,
+.progress {
+  fill: none;
+}
+
+.background {
+  stroke: #e9e7e7;
+}
+
+.progress {
+  stroke: #51bd47;
+}
+
+.text {
+  font-weight: bold;
+  fill: #47bd57;
+  text-anchor: middle;
+  font-size: 2rem;
+}
